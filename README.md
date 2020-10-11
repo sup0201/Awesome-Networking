@@ -4,4 +4,4 @@
  	<br>
 </h1>
 
-# Awesome Networking [Awesome community](https://img.shields.io/badge/awesome-community-green.svg)
+# Awesome Networking
